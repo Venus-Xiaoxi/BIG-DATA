@@ -1,4 +1,4 @@
- # Xiaoxi Liao Assignment5A
+
 
 rate = float(input('input rate in decimal format:'))
 cashflow = input('Please enter a list of cashflow for years in sequences : ').split(sep=',')
